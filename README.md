@@ -23,6 +23,8 @@
 
 ### :man_technologist: About Me :
 
+I am a recent MIT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> located in Boston, MA.
+
 <!--
 **djaechung/djaechung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
