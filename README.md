@@ -33,6 +33,10 @@ I am a recent MIT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-jaehoon-chung/)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
 <!--
 **djaechung/djaechung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
