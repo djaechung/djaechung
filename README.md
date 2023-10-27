@@ -7,7 +7,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-07405E?style=flat-square&logo=discord&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/AdobeIllustrator-07405E?style=flat-square&logo=discord&logoColor=white)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
