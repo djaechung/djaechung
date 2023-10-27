@@ -8,6 +8,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/AdobeIllustrator-07405E?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/AdobeLightroom-07405E?style=flat-square&logo=adobelightroom&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/AdobePhotoshop-07405E?style=flat-square&logo=adobephotoshop&logoColor=white)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
