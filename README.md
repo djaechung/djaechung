@@ -34,17 +34,28 @@
 ![SciPy](https://img.shields.io/badge/SciPy-07405E?style=flat-square&logo=scipy&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-07405E?style=flat-square&logo=spacy&logoColor=white)
 
-
+<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+-->
+
+I'm a recent graduate looking to contribute to groundbreaking work in healthcare or biomedical machine learning. Currently, I'm open to employment and/or research opportunities.
+
+I recently graduated from MIT with a masters in Business Analytics and previously from UC Berkeley with a bachelor's in Data Science. 
+
+I love to read books and listen to music.
+
+
 
 <img src="https://komarev.com/ghpvc/?username=djaechung&style=flat-square&color=blue" alt=""/>
 
+<!--
 <h1>
   hey there :wave:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+--->
 
 ---
 
