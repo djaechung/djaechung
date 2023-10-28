@@ -40,7 +40,7 @@
 </div>
 -->
 
-I'm a recent graduate looking to contribute to groundbreaking work in healthcare or biomedical machine learning. Currently, I'm open to employment and/or research opportunities.
+I'm a recent data science graduate looking to contribute to meaningful work in healthcare or biomedical machine learning. Currently, I'm open to employment and/or research opportunities in human health.
 
 I recently graduated from MIT with a masters in Business Analytics and previously from UC Berkeley with a bachelor's in Data Science. 
 
