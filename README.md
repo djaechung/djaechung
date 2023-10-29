@@ -22,7 +22,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-C80815?style=flat-square&logo=keras&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-000000?style=flat-square&logo=latex&logoColor=white)
-<!--![Nissan](https://img.shields.io/badge/Nissan-07405E?style=flat-square&logo=nissan&logoColor=white)-->
 ![NumPy](https://img.shields.io/badge/NumPy-0B2198?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0101FF?style=flat-square&logo=opencv&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-8DB600?style=flat-square&logo=overleaf&logoColor=white)
