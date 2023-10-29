@@ -49,9 +49,8 @@ I recently graduated from MIT with a masters in Business Analytics and previousl
 
 Boston is a wonderful place to be--in my free time you'll find me biking around Cambridge or doing some impromptu street photography after exploring a new cafe. Always down for a coffee chat!
 
-At a glance:
-- 🔭 I’m currently working on a generative AI project on synthetic biomedical data with a professor from Harvard Medical School
-- 🌱 I’m currently learning about the medical field and how to apply deep learning techniques towards its advancement
+🔭 I’m currently working on a generative AI project on synthetic biomedical data with a professor from Harvard Medical School
+🌱 I’m currently learning about the medical field and how to apply deep learning techniques towards its advancement
 
 ---
 <img src="https://komarev.com/ghpvc/?username=djaechung&style=flat-square&color=blue" alt=""/>
