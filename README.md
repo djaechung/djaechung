@@ -39,14 +39,18 @@
 </div>
 -->
 
+---
+
+### :man_technologist: About Me :
+
 I'm a recent data science graduate looking to contribute to meaningful work in healthcare or biomedical machine learning. Currently doing research for Harvard Medical School, **I'm open to employment and/or research opportunities in human health**.
 
 I recently graduated from MIT with a masters in Business Analytics and previously from UC Berkeley with a bachelor's in Data Science. Machine learning and artificial intelligence are right up my alley, as are the tools and languages I've included above.
 
 Boston is a wonderful place to be--in my free time you'll find me biking around Cambridge or doing some impromptu street photography after exploring a new cafe. Always down for a coffee chat!
 
-
-<img src="https://komarev.com/ghpvc/?username=djaechung&style=flat-square&color=blue" alt=""/>
+- 🔭 I’m currently working on a generative AI project on synthetic biomedical data with a professor from Harvard Medical School
+- 🌱 I’m currently learning about the medical field while dipping my toes in generative AI
 
 <!--
 <h1>
@@ -99,6 +103,8 @@ I am a recent MIT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=djaechung&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djaechung&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://komarev.com/ghpvc/?username=djaechung&style=flat-square&color=blue" alt=""/>
 
 <!--
 CREDIT: https://www.sitepoint.com/github-profile-readme/
