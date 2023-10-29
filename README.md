@@ -26,12 +26,12 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-0101FF?style=flat-square&logo=opencv&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-8DB600?style=flat-square&logo=overleaf&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-306998?style=flat-square&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-07405E?style=flat-square&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-07405E?style=flat-square&logo=pytorch&logoColor=white)
-![R](https://img.shields.io/badge/R-07405E?style=flat-square&logo=r&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-07405E?style=flat-square&logo=scikitlearn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-07405E?style=flat-square&logo=scipy&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-07405E?style=flat-square&logo=spacy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-119DFF?style=flat-square&logo=plotly&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![R](https://img.shields.io/badge/R-256BC0?style=flat-square&logo=r&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-3499CD?style=flat-square&logo=scikitlearn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0D56A6?style=flat-square&logo=scipy&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 
 <!--
 <div id="header" align="center">
