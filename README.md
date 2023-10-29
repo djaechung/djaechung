@@ -9,7 +9,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/AdobeIllustrator-07405E?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/AdobeIllustrator-F8A829?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/AdobeLightroom-07405E?style=flat-square&logo=adobelightroom&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/AdobePhotoshop-07405E?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/AWS-07405E?style=flat-square&logo=amazonaws&logoColor=white)
