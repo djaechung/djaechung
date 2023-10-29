@@ -41,12 +41,9 @@
 
 I'm a recent data science graduate looking to contribute to meaningful work in healthcare or biomedical machine learning. Currently doing research for Harvard Medical School, **I'm open to employment and/or research opportunities in human health**.
 
-I recently graduated from MIT with a masters in Business Analytics and previously from UC Berkeley with a bachelor's in Data Science. Machine learning and artificial intelligence are right up my alley, as are Python, Pandas, PyTorch, and other technical skills.
+I recently graduated from MIT with a masters in Business Analytics and previously from UC Berkeley with a bachelor's in Data Science. Machine learning and artificial intelligence are right up my alley, as are the tools and languages I've included above.
 
 Boston is a wonderful place to be--in my free time you'll find me biking around Cambridge or doing some impromptu street photography after exploring a new cafe. Always down for a coffee chat!
-
-
-
 
 
 <img src="https://komarev.com/ghpvc/?username=djaechung&style=flat-square&color=blue" alt=""/>
@@ -57,7 +54,7 @@ Boston is a wonderful place to be--in my free time you'll find me biking around 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 --->
-
+<!--
 ---
 
 ### :man_technologist: About Me :
@@ -65,14 +62,12 @@ Boston is a wonderful place to be--in my free time you'll find me biking around 
 I am a recent MIT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> located in Boston, MA.
 
 - :telescope: I’m doing research at Harvard for synthesizing heartbeat audio for biomedical ML applications.
-
 - :seedling: Exploring biomedical ML/AI
-
 - :zap: In my free time, I bike around Cambridge and take photos of my friends
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-jaehoon-chung/)
 
 ---
+-->
 <!--
 ### :hammer_and_wrench: Languages and Tools :
 <div>
