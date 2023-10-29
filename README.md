@@ -40,11 +40,13 @@
 </div>
 -->
 
-I'm a recent data science graduate looking to contribute to meaningful work in healthcare or biomedical machine learning. Currently, I'm open to employment and/or research opportunities in human health.
+I'm a recent data science graduate looking to contribute to meaningful work in healthcare or biomedical machine learning. Currently doing research for Harvard Medical School, **I'm open to employment and/or research opportunities in human health**.
 
-I recently graduated from MIT with a masters in Business Analytics and previously from UC Berkeley with a bachelor's in Data Science. 
+I recently graduated from MIT with a masters in Business Analytics and previously from UC Berkeley with a bachelor's in Data Science. Machine learning and artificial intelligence are right up my alley, as are Python, Pandas, PyTorch, and other technical skills.
 
-I love to read books and listen to music.
+Boston is a wonderful place to be--in my free time you'll find me biking around Cambridge or doing some impromptu street photography after exploring a new cafe. Always down for a coffee chat!
+
+
 
 
 
