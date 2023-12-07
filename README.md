@@ -43,11 +43,11 @@
 
 ### :man_technologist: About Me :
 
-I'm a recent data science graduate looking to contribute to meaningful work in healthcare or biomedical machine learning. Currently conducting research for Harvard Medical School, **I'm open to employment and/or research opportunities in human health**.
+I'm a recent data science graduate looking to contribute to meaningful work in healthcare or biomedical machine learning. Currently conducting research for Harvard Medical School, and Beth Israel Deaconess Medical Center, **I'm open to employment and/or research opportunities in human health**.
 
 I recently graduated from MIT with a masters in Business Analytics and previously from UC Berkeley with a bachelor's in Data Science. Machine learning and artificial intelligence are right up my alley, as are the tools and languages I've included above.
 
-Boston is a wonderful place to be--in my free time you'll find me biking around Cambridge or doing some impromptu street photography after exploring a new cafe. Always down for a coffee chat!
+Currently I live in Boston, and I love it here--in my free time you'll find me biking around Cambridge or doing some impromptu street photography after exploring a new cafe. Always down for a coffee chat!
 
 - 🔭 I’m currently working on a generative AI project on synthetic biomedical data with a professor from Harvard Medical School
 - 🌱 I’m currently learning about the medical field and how to apply deep learning techniques towards its advancement
