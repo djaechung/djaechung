@@ -43,13 +43,15 @@
 
 ### :man_technologist: About Me :
 
-I'm a recent data science graduate looking to contribute to meaningful work in healthcare or biomedical machine learning. Currently conducting research for Harvard Medical School, and Beth Israel Deaconess Medical Center, **I'm open to employment and/or research opportunities in human health**.
+I'm a recent data science graduate looking to contribute to meaningful work in healthcare or biomedical machine learning. Currently conducting research for Harvard Medical School and Beth Israel Deaconess Medical Center, **I'm open to employment and/or research opportunities in human health**.
 
 I recently graduated from MIT with a masters in Business Analytics and previously from UC Berkeley with a bachelor's in Data Science. Machine learning and artificial intelligence are right up my alley, as are the tools and languages I've included above.
 
 Currently I live in Boston, and I love it here--in my free time you'll find me biking around Cambridge or doing some impromptu street photography after exploring a new cafe. Always down for a coffee chat!
 
 - 🔭 I’m currently working on a generative AI project on synthetic biomedical data with a professor from Harvard Medical School
+- 🔭 I’m also developing models to predict ejection fraction (EF) from echocardiogram video data with faculty from Beth Israel Deaconess Medical Center (BIDMC)
+- 🔭 On the side, I'm also conducing a causal inference study on how different ICU interventions affect the discharge locations of ICU patients, also with BIDMC faculty
 - 🌱 I’m currently learning about the medical field and how to apply deep learning techniques towards its advancement
 
 ---
