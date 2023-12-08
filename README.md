@@ -41,7 +41,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### 🧑‍💻 About Me :
 
 I'm a recent data science graduate looking to contribute to meaningful work in healthcare or biomedical machine learning. Currently conducting research for Harvard Medical School and Beth Israel Deaconess Medical Center, **I'm open to employment and/or research opportunities in human health**.
 
@@ -103,7 +103,7 @@ I am a recent MIT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 --->
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=djaechung&theme=dark&background=000000)](https://git.io/streak-stats)
 
