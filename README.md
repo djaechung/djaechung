@@ -47,7 +47,7 @@ I'm a recent data science graduate looking to contribute to meaningful work in h
 
 I recently graduated from MIT with a masters in Business Analytics and previously from UC Berkeley with a bachelor's in Data Science. Machine learning and artificial intelligence are right up my alley, as are the tools and languages I've included above.
 
-To see what I've studied, click this: https://airtable.com/app3EiNXPQOTbFGxu/shr4pH09BdbwLTDeP <br\>
+To see what I've studied, click this: https://airtable.com/app3EiNXPQOTbFGxu/shr4pH09BdbwLTDeP <br/>
 And to see my background, click this: https://www.linkedin.com/in/daniel-jaehoon-chung/
 
 Currently I live in Boston, and I love it here--in my free time you'll find me biking around Cambridge or doing some impromptu street photography after exploring a new cafe. Always down for a coffee chat!
